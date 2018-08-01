@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/cocos/editor-support/cocostudio/CocoLoader.cpp \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/CocoLoader.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/document-wrapper.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/rapidjson.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/document.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/reader.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/allocators.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/stream.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/encodings.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/encodedstream.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/memorystream.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/meta.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/stack.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/swap.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/strtod.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/ieee754.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/biginteger.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/diyfp.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/pow10.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/error/error.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/strfunc.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../external/json/internal/../stream.h \
+  /Users/rostyslav/projects/cocoss/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/CocosStudioExport.h
